@@ -10,4 +10,8 @@ python -m pip install -r requirements.txt
 py Televideo.py (under win)
 python or python3 under linux
 
+bytecode python
+win: avviatelevideo.exe
+linux: pyhton Televideo.pyc
+
 n.b. this code is not compatible with macos
